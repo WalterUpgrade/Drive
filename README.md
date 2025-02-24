@@ -1,6 +1,7 @@
 ## Proyecto full-stack
 ## Desarrollo
 ## Aplicación web de gestión de archivos basada en la nube
+// ASEGURAR QUE npx convex dev y npm run dev ESTEN CORRIENDO!!
 
 Sistema de almacenamiento o gestión de archivos en la nube, inspirado en algo como Google Drive o Dropbox.
 
